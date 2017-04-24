@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 21:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 21:23
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -285,6 +285,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--130
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--135
+
+ []
+
 [3] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  2705 strings out of 493333
@@ -298,7 +308,7 @@ Here is how much of TeX's memory you used:
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (3 pages, 374202 bytes).
+Output written on resume.pdf (3 pages, 374354 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
