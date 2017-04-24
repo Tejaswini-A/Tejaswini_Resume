@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 20:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 21:06
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -267,23 +267,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--50
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/teju1.jpg>] [2]
-(resume.aux) ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/teju1.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
+
+("E:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+ [2] (resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2688 strings out of 493333
- 38393 string characters out of 3145231
+ 2705 strings out of 493333
+ 38653 string characters out of 3145231
  112804 words of memory out of 3000000
- 6187 multiletter control sequences out of 15000+200000
+ 6201 multiletter control sequences out of 15000+200000
  4869 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,8n,68p,423b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
-<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb>
-Output written on resume.pdf (2 pages, 362914 bytes).
+<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (2 pages, 370855 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
