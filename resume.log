@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 21:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 21:22
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -275,7 +275,17 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
- [2] [3] (resume.aux) ) 
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 122--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--130
+
+ []
+
+[3] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  2705 strings out of 493333
  38653 string characters out of 3145231
@@ -284,11 +294,11 @@ Here is how much of TeX's memory you used:
  4869 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,8n,68p,423b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
-<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (3 pages, 374028 bytes).
+<E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (3 pages, 374202 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
