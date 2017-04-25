@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  23 APR 2017 21:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  24 APR 2017 20:36
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -235,11 +235,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
-<F:/teju1.jpg, id=1, 529.0164pt x 563.706pt>
-File: F:/teju1.jpg Graphic file (type jpg)
- <use F:/teju1.jpg>
-Package pdftex.def Info: F:/teju1.jpg used on input line 12.
-(pdftex.def)             Requested size: 100.09526pt x 106.65797pt.
+<F:/photo1.jpg, id=1, 407.27156pt x 423.08063pt>
+File: F:/photo1.jpg Graphic file (type jpg)
+ <use F:/photo1.jpg>
+Package pdftex.def Info: F:/photo1.jpg used on input line 12.
+(pdftex.def)             Requested size: 150.14671pt x 155.97572pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
@@ -267,7 +267,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--50
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/teju1.jpg>]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/photo1.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
 
 ("E:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -298,17 +298,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--135
 [3] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  2705 strings out of 493333
- 38653 string characters out of 3145231
- 112804 words of memory out of 3000000
+ 38658 string characters out of 3145231
+ 111804 words of memory out of 3000000
  6201 multiletter control sequences out of 15000+200000
  4869 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,68p,423b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,8n,68p,456b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
 10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (3 pages, 374354 bytes).
+Output written on resume.pdf (3 pages, 158448 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
